@@ -1,1 +1,3 @@
-"Ol† meu gitLab" 
+# Ol√° meu gitLab 
+
+Primeiros passos dentro do git
